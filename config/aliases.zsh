@@ -1,0 +1,6 @@
+alias c="code"
+alias spt="speedtest -A -s 6527"
+alias nlp-server4="ssh -p 35222 joon@nlplab.iptime.org"
+alias nlp-server6="ssh -p 46022 joon@nlplab.iptime.org"
+alias nlp-server7="ssh -p 47022 joon@nlplab.iptime.org"
+alias pii="pip install"
